@@ -18,7 +18,7 @@ DAX
 Power Query
 Microsoft Excel
 
-# WHY IAM BUILT THIS
+# WHY I'M BUILT THIS
 I didn't want this to look like a default Power BI report with scattered visuals and mismatched colors. I spent a good amount of time on the design side — a consistent dark teal color palette across every card, matching rounded corners, aligned slicers grouped into one filter bar, and a clean dark header banner — so the whole thing reads as one connected dashboard instead of a bunch of separate charts thrown onto a page.
 
 
