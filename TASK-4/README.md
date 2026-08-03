@@ -1,4 +1,4 @@
-# GLOBAL ELECTRONIC RETAILER ANALYTICS DASHBOARD
+# GLOBAL ELECTRONIC RETAIL ANALYTICS DASHBOARD
 
 # PROJECT OVERVIEW
 This project focuses on analyzing the global retail dataset to extract actionable business insights, track key performance indicators (KPIs), and visualize global sales trends.
