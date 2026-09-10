@@ -126,6 +126,4 @@ Through this project, I got practical experience in working with financial and c
 More importantly, I learned that individual KPIs are more useful when they are looked at together. For example, revenue growth becomes more meaningful when it is considered alongside CAC, customer growth and LTV:CAC.
 
 ## CONCLUSION
-This project gave me practical exposure to a complete data analysis workflow, starting from data preparation and KPI calculations and ending with business insights and dashboard creation.
-
-It also helped me understand how data analysts can use financial and customer metrics to support better business decisions.
+This project gave me practical exposure to a complete data analysis workflow, starting from data preparation and KPI calculations and ending with business insights and dashboard creation.It also helped me understand how data analysts can use financial and customer metrics to support better business decisions.
